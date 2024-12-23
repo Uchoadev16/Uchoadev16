@@ -21,7 +21,7 @@
 ## Um pouco Sobre mim
 <ul>
     <li>Atualmente estudante de escola estadual EEEP Salaberga.</li>
-    <li>Dev back-end em PHP.</li>
+    <li>Desenvolvedor back-end.</li>
     <li>3º ano do ensino medio.</li> 
     <li>Diversos projetos em produção.</li>
     <li>Parte da equipe de desenvolvedores <a href="https://github.com/teamAreadev">Team área dev.</a></li>
