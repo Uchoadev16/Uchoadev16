@@ -24,7 +24,7 @@
     <li>Estudante de escola estadual EEEP Salaberga.</li>
     <li>Desenvolvedor back-end.</li>
     <li>3º ano do ensino medio.</li> 
-    <li>Dev na linguagem PHP utilizando APIs, libs e framework(Laravel).</li>
+    <li>Desenvolvedor ans linguagens de PHP e Python.</li>
     <li>Parte da equipe de desenvolvedores <a href="https://github.com/teamAreadev">Team área dev.</a></li>
     <li>Desenvolvedor da escola <a href="https://salaberga.com">EEEP Salaberga Torquato Gomes de Matos.</a></li>
 </ul>
