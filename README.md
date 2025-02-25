@@ -6,7 +6,7 @@
 
 
 
-## 📗Habilidades e tecnologias 
+## 📗Skills and Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,12 +19,11 @@
 
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Uchoadev16&theme=blue-green)
 
-## Sobre mim:
+## About me:
 <ul>
-    <li>Estudante de escola estadual EEEP Salaberga.</li>
-    <li>Desenvolvedor back-end.</li>
-    <li>3º ano do ensino medio.</li> 
-    <li>Desenvolvedor ans linguagens de PHP e Python.</li>
-    <li>Parte da equipe de desenvolvedores <a href="https://github.com/teamAreadev">Team área dev.</a></li>
-    <li>Desenvolvedor da escola <a href="https://salaberga.com">EEEP Salaberga Torquato Gomes de Matos.</a></li>
+    <li>Computer science student.</li>
+    <li>Back-end Devoloper.</li>
+    <li>Developer in PHP and Python languages.</li>
+    <li>Part of the developer team: <a href="https://github.com/teamAreadev">Team área dev.</a></li>
+    <li>School Developer <a href="https://salaberga.com">EEEP Salaberga Torquato Gomes de Matos.</a></li>
 </ul>
